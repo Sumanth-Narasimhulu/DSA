@@ -23,6 +23,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
+| [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
 | [3750-closest-equal-element-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
+| [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
+| [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
 |  |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
