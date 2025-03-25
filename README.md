@@ -23,6 +23,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0941-sort-array-by-parity](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
@@ -100,5 +102,6 @@
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
