@@ -25,6 +25,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3750-closest-equal-element-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -62,6 +63,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Divide and Conquer
 |  |
 | ------- |
