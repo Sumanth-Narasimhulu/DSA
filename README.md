@@ -30,6 +30,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3750-closest-equal-element-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -39,6 +40,7 @@
 | [0768-partition-labels](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0768-partition-labels) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3750-closest-equal-element-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
