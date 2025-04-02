@@ -28,6 +28,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3750-closest-equal-element-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3750-closest-equal-element-queries) |
