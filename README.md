@@ -27,6 +27,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
@@ -124,9 +125,14 @@
 | ------- |
 | [0768-partition-labels](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0768-partition-labels) |
 | [1880-largest-merge-of-two-strings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1880-largest-merge-of-two-strings) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Database
 |  |
 | ------- |
 | [3848-analyze-subscription-conversion](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3848-analyze-subscription-conversion) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
