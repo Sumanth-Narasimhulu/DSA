@@ -53,6 +53,7 @@
 | ------- |
 | [0768-partition-labels](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0768-partition-labels) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1880-largest-merge-of-two-strings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1880-largest-merge-of-two-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Design
