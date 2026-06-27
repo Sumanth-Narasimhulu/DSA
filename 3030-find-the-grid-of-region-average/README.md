@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-grid-of-region-average/">3030. Find the Grid of Region Average</a></h2><h3>Medium</h3><hr><p>You are given <code>m x n</code> grid <code>image</code> which represents a grayscale image, where <code>image[i][j]</code> represents a pixel with intensity in the range <code>[0..255]</code>. You are also given a <strong>non-negative</strong> integer <code>threshold</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-grid-of-region-average">3030. Find the Grid of Region Average</a></h2><h3>Medium</h3><hr><p>You are given <code>m x n</code> grid <code>image</code> which represents a grayscale image, where <code>image[i][j]</code> represents a pixel with intensity in the range <code>[0..255]</code>. You are also given a <strong>non-negative</strong> integer <code>threshold</code>.</p>
 
 <p>Two pixels are <strong>adjacent</strong> if they share an edge.</p>
 
