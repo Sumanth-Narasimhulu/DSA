@@ -20,7 +20,7 @@ class Solution {
             }
         }
         int set1size = set.size();
-        System.out.println(set);
+        // System.out.println(set);
 
         HashSet<Integer>set2 = new HashSet<>();
 
@@ -35,11 +35,11 @@ class Solution {
         }
         int set2size = set2.size();
         int n = nums1.length;
-        System.out.println(set2);
+        // System.out.println(set2);
         
 
-        System.out.println("common set");
-        System.out.println(common);
+        // System.out.println("common set");
+        // System.out.println(common);
 
         int a = set.size();
         int b = set2.size();
