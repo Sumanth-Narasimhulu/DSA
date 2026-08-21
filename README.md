@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0056-merge-intervals) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0941-sort-array-by-parity](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
@@ -79,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0056-merge-intervals) |
 | [0941-sort-array-by-parity](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
