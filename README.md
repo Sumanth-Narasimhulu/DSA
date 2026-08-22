@@ -23,6 +23,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0056-merge-intervals) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0735-asteroid-collision](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0735-asteroid-collision) |
 | [0941-sort-array-by-parity](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
@@ -128,6 +129,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0735-asteroid-collision) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
