@@ -134,6 +134,7 @@
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0224-basic-calculator) |
 | [0768-partition-labels](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0768-partition-labels) |
 | [1880-largest-merge-of-two-strings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1880-largest-merge-of-two-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -151,6 +152,7 @@
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0224-basic-calculator) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -174,5 +176,10 @@
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0224-basic-calculator) |
 | [0735-asteroid-collision](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0735-asteroid-collision) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
