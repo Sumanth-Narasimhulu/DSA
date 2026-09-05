@@ -25,6 +25,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0503-next-greater-element-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
@@ -180,6 +181,7 @@
 | [0224-basic-calculator](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0224-basic-calculator) |
 | [0503-next-greater-element-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -188,4 +190,5 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
