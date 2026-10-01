@@ -24,6 +24,7 @@
 | [0056-merge-intervals](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0056-merge-intervals) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0503-next-greater-element-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0941-sort-array-by-parity) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -197,4 +199,9 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
