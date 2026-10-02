@@ -31,6 +31,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -166,10 +167,12 @@
 | [0225-implement-stack-using-queues](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,8 +203,14 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Linked List
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
