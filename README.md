@@ -68,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0062-unique-paths) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -156,6 +157,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0224-basic-calculator) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
