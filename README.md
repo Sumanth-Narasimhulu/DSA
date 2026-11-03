@@ -32,6 +32,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
+| [1696-jump-game-vi](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1696-jump-game-vi) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0062-unique-paths) |
+| [1696-jump-game-vi](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1696-jump-game-vi) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
+| [1696-jump-game-vi](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1696-jump-game-vi) |
 ## Counting Sort
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
 | [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
+| [1696-jump-game-vi](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1696-jump-game-vi) |
 ## Linked List
 |  |
 | ------- |
@@ -219,4 +223,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0062-unique-paths) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
