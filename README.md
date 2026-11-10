@@ -36,6 +36,7 @@
 | [1696-jump-game-vi](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1696-jump-game-vi) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
+| [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3750-closest-equal-element-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3750-closest-equal-element-queries) |
 ## Sorting
@@ -151,6 +153,7 @@
 | [0224-basic-calculator](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0224-basic-calculator) |
 | [0768-partition-labels](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0768-partition-labels) |
 | [1880-largest-merge-of-two-strings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1880-largest-merge-of-two-strings) |
+| [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Database
@@ -162,6 +165,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
