@@ -37,6 +37,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
+| [2080-range-frequency-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2080-range-frequency-queries) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0768-partition-labels](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0768-partition-labels) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
+| [2080-range-frequency-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2080-range-frequency-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -90,6 +92,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
+| [2080-range-frequency-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2080-range-frequency-queries) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3750-closest-equal-element-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3750-closest-equal-element-queries) |
 ## Sorting
@@ -115,6 +118,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2080-range-frequency-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2080-range-frequency-queries) |
 ## Merge Sort
 |  |
 | ------- |
@@ -184,6 +188,7 @@
 | [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1670-design-front-middle-back-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1670-design-front-middle-back-queue) |
+| [2080-range-frequency-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2080-range-frequency-queries) |
 ## Data Stream
 |  |
 | ------- |
