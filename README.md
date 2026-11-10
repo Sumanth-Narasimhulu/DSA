@@ -24,6 +24,7 @@
 | [0056-merge-intervals](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0056-merge-intervals) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0503-next-greater-element-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0503-next-greater-element-ii) |
+| [0528-random-pick-with-weight](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0528-random-pick-with-weight) |
 | [0622-design-circular-queue](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0739-daily-temperatures) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0528-random-pick-with-weight](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0528-random-pick-with-weight) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
 | [2080-range-frequency-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2080-range-frequency-queries) |
@@ -171,6 +173,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0528-random-pick-with-weight) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
@@ -181,6 +184,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0224-basic-calculator) |
+| [0528-random-pick-with-weight](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0528-random-pick-with-weight) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -247,4 +251,8 @@
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1696-jump-game-vi) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
