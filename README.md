@@ -40,6 +40,7 @@
 | [2080-range-frequency-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2080-range-frequency-queries) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -93,6 +94,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2055-plates-between-candles](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2055-plates-between-candles) |
 | [2080-range-frequency-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2080-range-frequency-queries) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3750-closest-equal-element-queries](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3750-closest-equal-element-queries) |
 ## Sorting
@@ -103,6 +105,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1464-reduce-array-size-to-the-half) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1961-maximum-ice-cream-bars) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3430-count-days-without-meetings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -144,6 +147,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1880-largest-merge-of-two-strings](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/1880-largest-merge-of-two-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Simulation
