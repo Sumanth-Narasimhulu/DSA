@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0503-next-greater-element-ii](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0503-next-greater-element-ii) |
 | [0528-random-pick-with-weight](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0528-random-pick-with-weight) |
@@ -92,6 +93,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0528-random-pick-with-weight](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0528-random-pick-with-weight) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0528-random-pick-with-weight) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sumanth-Narasimhulu/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
